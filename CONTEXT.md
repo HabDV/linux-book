@@ -62,6 +62,7 @@
 CONTEXT.md              — описание проекта, цели, структура курса
 CHANGELOG.md            — история изменений
 chapters/               — каталог с этапами курса
+  00-preface.md
   01-intro.md
   02-filesystem.md
   03-permissions.md
