@@ -22,7 +22,7 @@
 | 02 | Файловая система: навигация, работа с файлами и каталогами | [02-filesystem.md](chapters/02-filesystem.md) |
 | 03 | Права доступа и владение файлами | [03-permissions.md](chapters/03-permissions.md) |
 | 04 | Текстовые редакторы: nano, основы vim | [04-editors.md](chapters/04-editors.md) |
-| 05 | Coreutils и конвейеры: обработка текста | *в работе* |
+| 05 | Coreutils и конвейеры: обработка текста | [05-coreutils.md](chapters/05-coreutils.md) |
 | 06 | Основы bash-скриптов | *в работе* |
 
 ### Часть II. Системный администратор
