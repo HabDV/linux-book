@@ -29,3 +29,4 @@
 
 - Добавлена глава 13 (13-git.md): контроль версий Git — установка и настройка, три зоны (рабочий каталог, индекс, репозиторий), рабочий цикл (init, status, add, commit, diff, log), .gitignore, ветвление и слияние (branch, switch, merge), разрешение конфликтов, удалённый репозиторий GitLab (SSH-ключ, remote, push, pull, clone)
 - Добавлена глава 14 (14-docker.md): контейнеризация — врезка форматы конфигов (INI, JSON, YAML), установка Docker из официального репозитория, образы и контейнеры (pull, run, ps, stop, rm), Docker Hub, проброс портов и volumes, Dockerfile (FROM, COPY, EXPOSE), .dockerignore, управление контейнерами (logs, exec, inspect, prune)
+- Добавлена глава 15 (15-docker-compose.md): Docker Compose — пошаговая сборка стека (MariaDB + WordPress с PHP-FPM + nginx), docker-compose.yml, .env для секретов, внутренняя сеть Compose, именованные тома, управление стеком (up/down/logs/exec)

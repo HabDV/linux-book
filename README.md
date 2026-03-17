@@ -42,7 +42,7 @@
 |---|------|------|
 | 13 | Git: основы контроля версий | [13-git.md](chapters/13-git.md) |
 | 14 | Docker: контейнеризация проекта | [14-docker.md](chapters/14-docker.md) |
-| 15 | Docker Compose: оркестрация в контейнерах | *в работе* |
+| 15 | Docker Compose: оркестрация в контейнерах | [15-docker-compose.md](chapters/15-docker-compose.md) |
 | 16 | Базовый CI/CD | *в работе* |
 
 ## Автор
